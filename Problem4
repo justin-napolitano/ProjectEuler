@@ -1,0 +1,12 @@
+#Project Euler Problem4
+
+
+#Create two lists up to 999
+#multiply each number by the other
+#check if a palindrome
+#if so save as largest palindrome yet
+
+first = []
+second []
+i = 0
+while i < 1000:
