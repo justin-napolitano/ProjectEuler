@@ -1,12 +1,25 @@
 ---
-slug: "github-projecteuler"
-title: "ProjectEuler"
-repo: "justin-napolitano/ProjectEuler"
-githubUrl: "https://github.com/justin-napolitano/ProjectEuler"
-generatedAt: "2025-11-23T09:26:55.145872Z"
-source: "github-auto"
+slug: github-projecteuler
+title: Python Solutions to Selected Project Euler Problems with Code Review
+repo: justin-napolitano/ProjectEuler
+githubUrl: https://github.com/justin-napolitano/ProjectEuler
+generatedAt: '2025-11-23T09:26:55.145872Z'
+source: github-auto
+summary: >-
+  Collection of Python implementations and analysis of Project Euler problems on multiples,
+  Fibonacci, prime factors, and palindrome products.
+tags:
+  - python
+  - project-euler
+  - number-theory
+  - code-quality
+seoPrimaryKeyword: project euler python solutions
+seoSecondaryKeywords:
+  - algorithmic problem solving
+  - prime factorization
+  - fibonacci sequence
+seoOptimized: true
 ---
-
 
 # Technical Overview of ProjectEuler Repository
 
