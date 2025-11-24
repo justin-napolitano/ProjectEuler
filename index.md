@@ -19,6 +19,13 @@ seoSecondaryKeywords:
   - prime factorization
   - fibonacci sequence
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.85
+topicFamilyNotes: >-
+  The post focuses on algorithmic problem solving, mathematical computation, and numerical analysis
+  in Python, which aligns closely with data science projects involving computational workflows and
+  algorithm implementations. Despite no direct data analysis or ETL pipeline, the problem-solving
+  nature and number theory focus fit best within 'datascience' given the catalog options.
 ---
 
 # Technical Overview of ProjectEuler Repository
@@ -87,3 +94,4 @@ The code prioritizes clarity and directness over abstraction or optimization. So
 - Explore algorithmic optimizations for performance gains.
 
 This repository serves as a practical reference for implementing fundamental algorithmic solutions in Python, useful for revisiting problem-solving techniques and improving code quality over time.
+
