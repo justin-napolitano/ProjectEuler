@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/ProjectEuler
 generatedAt: '2025-11-24T21:35:59.566Z'
 source: github-auto
 summary: >-
-  Explore efficient Python implementations for various Project Euler problems,
-  focusing on algorithmic correctness and clarity.
+  Explore efficient Python implementations for various Project Euler problems, focusing on
+  algorithmic correctness and clarity.
 tags:
   - python
   - algorithms
@@ -21,8 +21,8 @@ seoSecondaryKeywords:
   - code documentation
   - automated testing
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -92,4 +92,5 @@ ProjectEuler/
 - Add automated tests for correctness verification
 - Modularize code for reuse and clarity
 - Consider performance optimizations for large inputs
+
 
