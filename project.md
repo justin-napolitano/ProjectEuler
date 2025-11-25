@@ -1,19 +1,26 @@
 ---
 slug: github-projecteuler
 id: github-projecteuler
-title: ProjectEuler
+title: Python Solutions for Project Euler Problems
 repo: justin-napolitano/ProjectEuler
 githubUrl: https://github.com/justin-napolitano/ProjectEuler
 generatedAt: '2025-11-24T21:35:59.566Z'
 source: github-auto
 summary: >-
-  This repository contains Python solutions to a variety of Project Euler
-  problems. Each script addresses a specific problem, implementing algorithms to
-  compute mathematical results efficiently.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore efficient Python implementations for various Project Euler problems,
+  focusing on algorithmic correctness and clarity.
+tags:
+  - python
+  - algorithms
+  - math
+seoPrimaryKeyword: project euler python solutions
+seoSecondaryKeywords:
+  - python algorithms
+  - project euler problems
+  - efficient coding
+  - code documentation
+  - automated testing
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
